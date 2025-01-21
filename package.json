@@ -1,0 +1,24 @@
+{
+  "name": "glowderma",
+  "version": "1.0.0",
+  "description": "About SkinCare",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev":"node --watch --env-file=.env index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sagariyavaishnavi/GlowDerma.git"
+  },
+  "keywords": [],
+  "author": "Sagariya Vaishnavi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sagariyavaishnavi/GlowDerma/issues"
+  },
+  "homepage": "https://github.com/sagariyavaishnavi/GlowDerma#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
